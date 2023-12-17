@@ -139,25 +139,37 @@ body{
     font-weight: bold;
     letter-spacing: 1px;
     color: black;
-    padding: 20px;
+    margin: 10px 0px;
     text-align: center;
     line-height: 40px;
+    margin-bottom: 34px;
 }
 .para-konten-a{
     font-size: 12px;
     line-height: 20px;
+    margin: 55px 0px;
 }
 .heading-konten-b{
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 1px;
     color: black;
-    padding: 20px;
+    margin: 10px 0px;
     text-align: center;
     line-height: 40px;
-    align-items: center;
+    margin-bottom: 34px;
 }
 .para-konten-b{
     font-size: 12px;
     line-height: 20px;
+}
+.heading-konten-c{
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: black;
+    margin: 10px 0px;
+    text-align:left;
+    line-height: 40px;
+    margin-bottom: 34px;
 }
