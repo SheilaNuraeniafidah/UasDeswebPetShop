@@ -416,6 +416,26 @@ body{
     color: black;
     text-align: justify;
 }
+.home-links-5{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(36, 193, 255);
+    background-color: rgb(36, 193, 255);
+    margin: 20px 0px;
+    margin-right: 7px;
+    border-radius: 50px;
+    padding: 0px 27px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 50px;
+    transition: 0.2s ease;
+}
+.home-links-5:hover {
+    background-color: transparent;
+    color: rgb(255, 213, 0);
+    border: 1px solid rgb(255, 213, 0) !important;
+}
 .img-konten5-a{
     width: 200px;
     margin-top: -600px;
